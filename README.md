@@ -1,0 +1,2 @@
+# Beyond-Ridge-Regression-Enhancing-Distribution-of-Relaxation-Times-Deconvolution
+This repository contains some of the source code used for the paper titled 'From Beyond Ridge Regression: Enhancing Distribution of Relaxation Times Deconvolution' in the Journal of the Electrochemical Society, 171 (2024) 060529. https://iopscience.iop.org/article/10.1149/1945-7111/ad576a/pdf. The article is available online and in the docs folder.
